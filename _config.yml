@@ -1,0 +1,21 @@
+# Site settings
+title: Women who code
+header-img: img/home-bg.png
+email: nikifiona@gmail.com
+copyright_name: nikifi
+description: > # this means to ignore newlines until "baseurl:"
+  My Journey
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  nikifi
+learn_profile: nikifi
+email_username: nikifiona@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
