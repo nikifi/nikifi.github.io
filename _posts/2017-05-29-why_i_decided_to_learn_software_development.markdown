@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Why I decided to learn Software Development
-date:   2017-05-28 22:47:58 -0400
+title:      "Why I decided to learn Software Development"
+date:       2017-05-28 22:47:58 -0400
+permalink:  why_i_decided_to_learn_software_development
 ---
 
 
